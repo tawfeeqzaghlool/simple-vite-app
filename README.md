@@ -3,9 +3,9 @@ This is a simple React Application with Vite
 
 ## Technologies used to build this app
 [Vite](https://vitejs.dev/)\
-[Node.js](https://nodejs.org/en/) version > = 12.2.0 \ 
+[Node.js](https://nodejs.org/en/) version > = 12.2.0
 
-- Make sure to add Node.js to the Path in vairables \
+- Make sure to add Node.js to the Path in environment variable.
 
 Vite is the next-generation front-end build tool that provides a faster and leaner development experience for current web projects. It consists of two major parts:
 
