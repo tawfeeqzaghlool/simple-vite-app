@@ -17,17 +17,17 @@ Vite is the next-generation front-end build tool that provides a faster and lean
 2. Locally clone your forked version to begin working on the project.
 
 ## How to run this app
-1. Scaffold a Vite project with this command
+1. Scaffold a Vite project with this command.
 `npm create vite@latest`
 
-2. Then create node_modules with this command
+2. Then create node_modules with this command.
 `npm install`
 
-3. Setup Routes and Display Blogs with this command
+3. Setup Routes and Display Blogs with this command.
 `npm install react-router-dom`
 
-4. Start the server with this command
+4. Start the server with this command.
 `npm run dev`
 The app will run on your local server, open the browser and navigate to http://localhost:3000/
 
-5. You can modify the theme of this app by working on App.css file
+5. You can modify the theme of this app by working on App.css file.
