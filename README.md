@@ -5,7 +5,7 @@ This is a simple React Application with Vite
 - Vite
 - Node.js version > = 12.2.0
 
-* Make sure to add Node.js to the Path in vairables
+- Make sure to add Node.js to the Path in vairables
 
 Vite is the next-generation front-end build tool that provides a faster and leaner development experience for current web projects. It consists of two major parts:
 
