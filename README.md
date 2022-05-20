@@ -2,8 +2,8 @@
 This is a simple React Application with Vite
 
 # Technologies used to build this app
-Vite
-Node.js version > = 12.2.0
+- Vite
+- Node.js version > = 12.2.0
 
 * Make sure to add Node.js to the Path in vairables
 
