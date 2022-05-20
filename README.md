@@ -9,7 +9,7 @@ This is a simple React Application with Vite
 
 Vite is the next-generation front-end build tool that provides a faster and leaner development experience for current web projects. It consists of two major parts:
 
-1- A development server that provides rich feature enhancements over native ES modules, for example, extremely fast Hot Module Replacement (HMR).
+1- A development server that provides rich feature enhancements over native ES modules, for example, extremely fast Hot Module Replacement (HMR).\
 2- A build command that bundles your code with Rollup, preconfigured to output highly optimized static assets for production.
 
 ## Initial setup
